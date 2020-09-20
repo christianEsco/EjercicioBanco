@@ -9,7 +9,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author christian
+ *  christian Escobar
+ *  Josue chajil
+ * Roxana Estrada
+ * 
  */
 public class EjercicioBancoo {
     public static void main(String[] args) {
